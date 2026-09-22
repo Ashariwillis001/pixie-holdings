@@ -79,6 +79,3 @@ The economic figures are synthetic scenario data, not valuations, investment adv
 - [Break the Grid](https://github.com/ibloud/inpatient-corridors-review)
 - [Veiled Dominion Engine](https://github.com/Loptr-Lab/veiled-dominion-engine)
 
-## Attribution
-
-Concept, architecture, writing, and direction: Dominique Devereaux / Loptr Lab. Development assistance: OpenAI Codex. Tool assistance does not transfer authorship or ownership.
