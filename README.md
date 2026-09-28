@@ -2,8 +2,7 @@
 
 **Open-source prototype created for the Build, Ship, Shape: Amazon Developer Hackathon.**
 
-PIXIE Holdings is an accessible portfolio-economics game. The player stewards three fictionalized Loptr Lab holdings while balancing cash, human capacity, accessibility, rights, trust, and system pressure.
-
+three fictional Lopetr lab holdings.
 The project demonstrates a deliberately different kind of embodied assistant:
 
 - **Alexa+ is the voice** through a self-hosted MCP endpoint.
@@ -14,7 +13,6 @@ The project demonstrates a deliberately different kind of embodied assistant:
 ## Contributor launchpad
 
 **Run it. Test it. Tell us what breaks.**
-
 Start with [`CONTRIBUTING.md`](CONTRIBUTING.md). Good first contributions include accessibility testing, MCP/Alexa+ interoperability, documentation, provenance, UX, tests, and ecosystem mapping.
 
 The [`Ecosystem Handoff`](docs/ECOSYSTEM-HANDOFF.md) explains how this hackathon prototype fits into the wider Loptr Lab / PIXIE architecture without treating future Gamer OS capabilities as already shipped.
